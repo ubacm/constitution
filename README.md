@@ -1,13 +1,5 @@
----
-author:
-- The Buffalo Student Chapter of the ACM
-date: December 2014
-title: Bylaws And Constitution
-...
-
 Name
 ====
-
 This organization shall be called the University at Buffalo Student
 Chapter of the Association for Computing Machinery. In these Bylaws it
 is referred to as the Chapter; the Association for Computing Machinery
